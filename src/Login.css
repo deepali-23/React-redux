@@ -1,0 +1,48 @@
+.loginform {
+  margin-left: 30%;
+  margin-top: 10%;
+  background-color: rgb(194, 184, 233);
+  width: 25%;
+  border-radius: 5px;
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Inter";
+}
+
+.loginform input {
+  width: 105%;
+  justify-content: center;
+  padding: 20px 0;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  border-radius: 2px;
+  outline: none;
+  border: 1px solid rgba(199, 11, 11, 0.24);
+  font-family: "Inter";
+}
+.loginform button {
+  padding: 17px 10px;
+  margin-top: 10px;
+  background: rgb(235, 10, 10);
+  border: none;
+  border-radius: 3px;
+  width: 110%;
+  align-items: center;
+  color: white;
+  font-size: 14px;
+  font-family: "Inter";
+}
+.heading {
+  color: rgb(8, 8, 8);
+  font-size: 14px;
+  font-family: "Inter";
+  padding: 17px 10px;
+  margin-top: 10px;
+  width: 110%;
+  font-size: 15px;
+}
